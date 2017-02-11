@@ -1,0 +1,6 @@
+C:\Users\Kyle Bush\Desktop\Important Documents\Binary Search Tree\Binary Search Tree\bin\Debug\Binary Search Tree.exe.config
+C:\Users\Kyle Bush\Desktop\Important Documents\Binary Search Tree\Binary Search Tree\obj\Debug\Binary Search Tree.csprojResolveAssemblyReference.cache
+C:\Users\Kyle Bush\Desktop\Important Documents\Binary Search Tree\Binary Search Tree\bin\Debug\Binary Search Tree.exe
+C:\Users\Kyle Bush\Desktop\Important Documents\Binary Search Tree\Binary Search Tree\bin\Debug\Binary Search Tree.pdb
+C:\Users\Kyle Bush\Desktop\Important Documents\Binary Search Tree\Binary Search Tree\obj\Debug\Binary Search Tree.exe
+C:\Users\Kyle Bush\Desktop\Important Documents\Binary Search Tree\Binary Search Tree\obj\Debug\Binary Search Tree.pdb
